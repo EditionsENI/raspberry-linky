@@ -1,0 +1,9 @@
+{
+    "port": 3137,
+    "client": {
+        "config_path" : "./public/config.json"
+    },
+    "mongoose": {
+        "uri": "mongodb://localhost/sensehat"
+    }
+}

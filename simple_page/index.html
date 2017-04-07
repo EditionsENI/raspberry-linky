@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Simple test</title>
+    
+    <script src="/socket.io/socket.io.js"></script>
+
+    <script type="text/javascript">
+        window.onload = function() {
+
+            var datahtml = document.getElementById("data");
+            var socket = io.connect('http://82.253.30.78:3137/datas');
+
+
+            socket.on('data.array', function(data) {
+                console.log(data);
+                var index = data.map(function(d) { return d['label']; }).indexOf("PAPP");
+                if(index > -1)
+                    datahtml.innerHTML = data[index].label +' : ' + data[index].value;
+                //datahtml.innerHTML = "PAPP" +' : ' + data.PAPP;
+            });
+        };
+    </script>
+</head>
+
+<body>
+    <div id="data">...</div>
+</body>
+
+
+</html>

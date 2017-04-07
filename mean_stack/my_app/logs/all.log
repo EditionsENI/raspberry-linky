@@ -1,0 +1,1225 @@
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-02-16T03:11:24.443Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T03:51:28.908Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T03:54:24.003Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:00:52.932Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:02:34.027Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:06:50.984Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:09:48.930Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:10:26.855Z"}
+{"message":"Measure validation failed","errors":{"label":{"message":"Path `label` is required.","name":"ValidatorError","properties":{"type":"required","message":"Path `{PATH}` is required.","path":"label"},"kind":"required","path":"label"}},"stack":"ValidationError: Measure validation failed\n    at MongooseError.ValidationError (/home/pi/partage/SENSE_HAT/mean_stack/my_sense_hat_app/node_modules/mongoose/lib/error/validation.js:23:11)\n    at model.Document.invalidate (/home/pi/partage/SENSE_HAT/mean_stack/my_sense_hat_app/node_modules/mongoose/lib/document.js:1524:32)\n    at /home/pi/partage/SENSE_HAT/mean_stack/my_sense_hat_app/node_modules/mongoose/lib/document.js:1399:17\n    at validate (/home/pi/partage/SENSE_HAT/mean_stack/my_sense_hat_app/node_modules/mongoose/lib/schematype.js:706:7)\n    at /home/pi/partage/SENSE_HAT/mean_stack/my_sense_hat_app/node_modules/mongoose/lib/schematype.js:743:9\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (/home/pi/partage/SENSE_HAT/mean_stack/my_sense_hat_app/node_modules/mongoose/lib/schematype.js:711:19)\n    at /home/pi/partage/SENSE_HAT/mean_stack/my_sense_hat_app/node_modules/mongoose/lib/document.js:1397:9\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickCallback (internal/process/next_tick.js:98:9)","name":"ValidationError","level":"error","timestamp":"2017-02-16T04:10:29.066Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:11:02.828Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:12:22.773Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:12:54.981Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:15:12.433Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:15:12.540Z"}
+{"level":"info","message":"New Measure - humidity : 38.1849365234375","timestamp":"2017-02-16T04:15:17.609Z"}
+{"level":"info","message":"New Measure - temperature : 28.02842903137207","timestamp":"2017-02-16T04:15:17.618Z"}
+{"level":"info","message":"New Measure - pressure : 1031.14501953125","timestamp":"2017-02-16T04:15:17.619Z"}
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-02-16T04:17:22.376Z"}
+{"level":"info","message":"Mongoose default connection open to mongodb://localhost/sensehat","timestamp":"2017-02-16T04:17:22.427Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:17:22.467Z"}
+{"level":"info","message":"All measures removed","timestamp":"2017-02-16T04:17:22.481Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:18:31.011Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:18:31.118Z"}
+{"level":"info","message":"New Measure - humidity : 38.14484405517578","timestamp":"2017-02-16T04:18:40.745Z"}
+{"level":"info","message":"New Measure - temperature : 28.218639373779297","timestamp":"2017-02-16T04:18:40.769Z"}
+{"level":"info","message":"New Measure - pressure : 1031.177734375","timestamp":"2017-02-16T04:18:40.771Z"}
+{"level":"info","message":"New Measure - humidity : 38.30121994018555","timestamp":"2017-02-16T04:18:46.672Z"}
+{"level":"info","message":"New Measure - temperature : 28.063013076782227","timestamp":"2017-02-16T04:18:46.677Z"}
+{"level":"info","message":"New Measure - pressure : 1031.1953125","timestamp":"2017-02-16T04:18:46.679Z"}
+{"level":"info","message":"New Measure - humidity : 37.39102554321289","timestamp":"2017-02-16T04:18:52.389Z"}
+{"level":"info","message":"New Measure - temperature : 28.011137008666992","timestamp":"2017-02-16T04:18:52.392Z"}
+{"level":"info","message":"New Measure - pressure : 1031.18701171875","timestamp":"2017-02-16T04:18:52.394Z"}
+{"level":"info","message":"New Measure - humidity : 37.864166259765625","timestamp":"2017-02-16T04:18:54.638Z"}
+{"level":"info","message":"New Measure - temperature : 28.13218116760254","timestamp":"2017-02-16T04:18:54.640Z"}
+{"level":"info","message":"New Measure - pressure : 1031.16259765625","timestamp":"2017-02-16T04:18:54.643Z"}
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-02-16T04:27:47.175Z"}
+{"level":"info","message":"Mongoose default connection open to mongodb://localhost/sensehat","timestamp":"2017-02-16T04:27:47.226Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:27:47.266Z"}
+{"level":"info","message":"All measures removed","timestamp":"2017-02-16T04:27:47.279Z"}
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-02-16T04:28:50.184Z"}
+{"level":"info","message":"Mongoose default connection open to mongodb://localhost/sensehat","timestamp":"2017-02-16T04:28:50.235Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:28:50.277Z"}
+{"level":"info","message":"All measures removed","timestamp":"2017-02-16T04:28:50.289Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:28:55.207Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:28:55.312Z"}
+{"level":"info","message":"New Measure - humidity : 38.24909210205078","timestamp":"2017-02-16T04:29:00.528Z"}
+{"level":"info","message":"New Measure - temperature : 27.976552963256836","timestamp":"2017-02-16T04:29:00.531Z"}
+{"level":"info","message":"New Measure - pressure : 1031.226318359375","timestamp":"2017-02-16T04:29:00.554Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:30:54.832Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:30:54.937Z"}
+{"level":"info","message":"New Measure - humidity : 38.04460144042969","timestamp":"2017-02-16T04:31:31.585Z"}
+{"level":"info","message":"New Measure - temperature : 28.04572105407715","timestamp":"2017-02-16T04:31:31.590Z"}
+{"level":"info","message":"New Measure - pressure : 1031.186279296875","timestamp":"2017-02-16T04:31:31.591Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:36:24.512Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:36:24.677Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:38:48.347Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:38:48.457Z"}
+{"level":"info","message":"New Measure - humidity : 38.557838439941406","timestamp":"2017-02-16T04:50:54.122Z"}
+{"level":"info","message":"New Measure - temperature : 27.78634262084961","timestamp":"2017-02-16T04:50:54.125Z"}
+{"level":"info","message":"New Measure - pressure : 1031.06005859375","timestamp":"2017-02-16T04:50:54.127Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:51:53.005Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:51:53.193Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:52:58.123Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:52:58.316Z"}
+{"level":"info","message":"New Measure - humidity : 38.377403259277344","timestamp":"2017-02-16T04:53:15.197Z"}
+{"level":"info","message":"New Measure - temperature : 27.855510711669922","timestamp":"2017-02-16T04:53:15.201Z"}
+{"level":"info","message":"New Measure - pressure : 1031.080078125","timestamp":"2017-02-16T04:53:15.203Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:53:45.312Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:53:45.500Z"}
+{"level":"info","message":"New Measure - humidity : 38.180931091308594","timestamp":"2017-02-16T04:53:47.333Z"}
+{"level":"info","message":"New Measure - temperature : 28.02842903137207","timestamp":"2017-02-16T04:53:47.336Z"}
+{"level":"info","message":"New Measure - pressure : 1031.095458984375","timestamp":"2017-02-16T04:53:47.338Z"}
+{"level":"info","message":"New Measure - humidity : 38.369384765625","timestamp":"2017-02-16T04:53:56.746Z"}
+{"level":"info","message":"New Measure - pressure : 1031.10791015625","timestamp":"2017-02-16T04:53:56.750Z"}
+{"level":"info","message":"New Measure - temperature : 27.890094757080078","timestamp":"2017-02-16T04:53:56.752Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:56:04.948Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:56:05.141Z"}
+{"level":"info","message":"New Measure - humidity : 38.401458740234375","timestamp":"2017-02-16T04:56:07.654Z"}
+{"level":"info","message":"New Measure - temperature : 28.080305099487305","timestamp":"2017-02-16T04:56:07.657Z"}
+{"level":"info","message":"New Measure - pressure : 1031.1220703125","timestamp":"2017-02-16T04:56:07.658Z"}
+{"level":"info","message":"New Measure - humidity : 37.69575881958008","timestamp":"2017-02-16T04:56:16.577Z"}
+{"level":"info","message":"New Measure - pressure : 1031.1376953125","timestamp":"2017-02-16T04:56:16.584Z"}
+{"level":"info","message":"New Measure - temperature : 27.94196891784668","timestamp":"2017-02-16T04:56:16.586Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:56:57.040Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:56:57.155Z"}
+{"level":"info","message":"New Measure - humidity : 37.87619400024414","timestamp":"2017-02-16T04:57:03.496Z"}
+{"level":"info","message":"New Measure - temperature : 28.011137008666992","timestamp":"2017-02-16T04:57:03.501Z"}
+{"level":"info","message":"New Measure - pressure : 1031.127197265625","timestamp":"2017-02-16T04:57:03.503Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T04:59:22.813Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T04:59:23.003Z"}
+{"level":"info","message":"New Measure - humidity : 38.978851318359375","timestamp":"2017-02-16T04:59:31.407Z"}
+{"level":"info","message":"New Measure - temperature : 28.13218116760254","timestamp":"2017-02-16T04:59:31.410Z"}
+{"level":"info","message":"New Measure - pressure : 1031.120361328125","timestamp":"2017-02-16T04:59:31.412Z"}
+{"level":"info","message":"New Measure - humidity : 37.214599609375","timestamp":"2017-02-16T04:59:35.548Z"}
+{"level":"info","message":"New Measure - pressure : 1031.119140625","timestamp":"2017-02-16T04:59:35.551Z"}
+{"level":"info","message":"New Measure - temperature : 28.149471282958984","timestamp":"2017-02-16T04:59:35.553Z"}
+{"level":"info","message":"New Measure - humidity : 38.35735321044922","timestamp":"2017-02-16T05:19:56.673Z"}
+{"level":"info","message":"New Measure - temperature : 27.924678802490234","timestamp":"2017-02-16T05:19:56.680Z"}
+{"level":"info","message":"New Measure - pressure : 1031.115234375","timestamp":"2017-02-16T05:19:56.683Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T05:21:01.668Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T05:21:01.909Z"}
+{"level":"info","message":"New Measure - humidity : 38.00450134277344","timestamp":"2017-02-16T05:21:05.232Z"}
+{"level":"info","message":"New Measure - temperature : 27.924678802490234","timestamp":"2017-02-16T05:21:05.234Z"}
+{"level":"info","message":"New Measure - pressure : 1031.13671875","timestamp":"2017-02-16T05:21:05.237Z"}
+{"level":"info","message":"New Measure - humidity : 38.14884948730469","timestamp":"2017-02-16T05:21:08.333Z"}
+{"level":"info","message":"New Measure - pressure : 1031.1279296875","timestamp":"2017-02-16T05:21:08.338Z"}
+{"level":"info","message":"New Measure - temperature : 27.976552963256836","timestamp":"2017-02-16T05:21:08.341Z"}
+{"level":"info","message":"New Measure - humidity : 36.536964416503906","timestamp":"2017-02-16T05:21:09.748Z"}
+{"level":"info","message":"New Measure - temperature : 27.924678802490234","timestamp":"2017-02-16T05:21:09.750Z"}
+{"level":"info","message":"New Measure - pressure : 1031.13916015625","timestamp":"2017-02-16T05:21:09.752Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T05:32:45.495Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T05:32:45.686Z"}
+{"level":"info","message":"New Measure - temperature : 27.872802734375","timestamp":"2017-02-16T05:32:47.921Z"}
+{"level":"info","message":"New Measure - humidity : 38.35735321044922","timestamp":"2017-02-16T05:32:47.924Z"}
+{"level":"info","message":"New Measure - pressure : 1030.964111328125","timestamp":"2017-02-16T05:32:47.926Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T05:33:07.656Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T05:33:07.847Z"}
+{"level":"info","message":"New Measure - temperature : 27.820926666259766","timestamp":"2017-02-16T05:33:25.927Z"}
+{"level":"info","message":"New Measure - humidity : 37.82406997680664","timestamp":"2017-02-16T05:33:25.930Z"}
+{"level":"info","message":"New Measure - pressure : 1030.961669921875","timestamp":"2017-02-16T05:33:25.932Z"}
+{"level":"info","message":"New Measure - temperature : 27.890094757080078","timestamp":"2017-02-16T05:33:32.436Z"}
+{"level":"info","message":"New Measure - pressure : 1030.927490234375","timestamp":"2017-02-16T05:33:32.439Z"}
+{"level":"info","message":"New Measure - humidity : 39.54822540283203","timestamp":"2017-02-16T05:33:32.442Z"}
+{"level":"info","message":"New Measure - temperature : 27.907386779785156","timestamp":"2017-02-16T05:33:35.142Z"}
+{"level":"info","message":"New Measure - humidity : 37.71179962158203","timestamp":"2017-02-16T05:33:35.146Z"}
+{"level":"info","message":"New Measure - pressure : 1030.880859375","timestamp":"2017-02-16T05:33:35.153Z"}
+{"level":"info","message":"New Measure - temperature : 27.924678802490234","timestamp":"2017-02-16T05:33:38.553Z"}
+{"level":"info","message":"New Measure - humidity : 39.06706619262695","timestamp":"2017-02-16T05:33:38.558Z"}
+{"level":"info","message":"New Measure - pressure : 1030.914794921875","timestamp":"2017-02-16T05:33:38.562Z"}
+{"level":"info","message":"New Measure - temperature : 27.924678802490234","timestamp":"2017-02-16T05:33:41.141Z"}
+{"level":"info","message":"New Measure - humidity : 38.24107360839844","timestamp":"2017-02-16T05:33:41.144Z"}
+{"level":"info","message":"New Measure - pressure : 1030.931640625","timestamp":"2017-02-16T05:33:41.146Z"}
+{"level":"info","message":"New Measure - temperature : 27.890094757080078","timestamp":"2017-02-16T05:33:42.877Z"}
+{"level":"info","message":"New Measure - humidity : 38.06865692138672","timestamp":"2017-02-16T05:33:42.881Z"}
+{"level":"info","message":"New Measure - pressure : 1030.917236328125","timestamp":"2017-02-16T05:33:42.883Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T05:35:56.634Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T05:35:56.826Z"}
+{"level":"info","message":"New Measure - temperature : 28.080305099487305","timestamp":"2017-02-16T05:36:18.787Z"}
+{"level":"info","message":"New Measure - humidity : 37.800010681152344","timestamp":"2017-02-16T05:36:18.790Z"}
+{"level":"info","message":"New Measure - pressure : 1030.928955078125","timestamp":"2017-02-16T05:36:18.792Z"}
+{"level":"info","message":"New Measure - temperature : 28.011137008666992","timestamp":"2017-02-16T05:36:19.676Z"}
+{"level":"info","message":"New Measure - pressure : 1030.925048828125","timestamp":"2017-02-16T05:36:19.679Z"}
+{"level":"info","message":"New Measure - humidity : 38.32928466796875","timestamp":"2017-02-16T05:36:19.688Z"}
+{"level":"info","message":"New Measure - temperature : 28.063013076782227","timestamp":"2017-02-16T05:36:20.695Z"}
+{"level":"info","message":"New Measure - humidity : 37.555419921875","timestamp":"2017-02-16T05:36:20.699Z"}
+{"level":"info","message":"New Measure - pressure : 1030.956787109375","timestamp":"2017-02-16T05:36:20.702Z"}
+{"level":"info","message":"New Measure - temperature : 27.976552963256836","timestamp":"2017-02-16T05:36:21.697Z"}
+{"level":"info","message":"New Measure - humidity : 37.61957550048828","timestamp":"2017-02-16T05:36:21.699Z"}
+{"level":"info","message":"New Measure - pressure : 1030.940185546875","timestamp":"2017-02-16T05:36:21.704Z"}
+{"level":"info","message":"New Measure - temperature : 28.149471282958984","timestamp":"2017-02-16T05:36:22.723Z"}
+{"level":"info","message":"New Measure - humidity : 37.84812545776367","timestamp":"2017-02-16T05:36:22.726Z"}
+{"level":"info","message":"New Measure - pressure : 1030.944091796875","timestamp":"2017-02-16T05:36:22.727Z"}
+{"level":"info","message":"New Measure - temperature : 27.94196891784668","timestamp":"2017-02-16T05:36:23.742Z"}
+{"level":"info","message":"New Measure - humidity : 37.563438415527344","timestamp":"2017-02-16T05:36:23.749Z"}
+{"level":"info","message":"New Measure - pressure : 1030.921142578125","timestamp":"2017-02-16T05:36:23.754Z"}
+{"level":"info","message":"New Measure - temperature : 28.063013076782227","timestamp":"2017-02-16T05:36:24.797Z"}
+{"level":"info","message":"New Measure - humidity : 36.95798110961914","timestamp":"2017-02-16T05:36:24.800Z"}
+{"level":"info","message":"New Measure - pressure : 1030.947998046875","timestamp":"2017-02-16T05:36:24.803Z"}
+{"level":"info","message":"New Measure - temperature : 28.02842903137207","timestamp":"2017-02-16T05:36:25.763Z"}
+{"level":"info","message":"New Measure - humidity : 38.18894958496094","timestamp":"2017-02-16T05:36:25.766Z"}
+{"level":"info","message":"New Measure - pressure : 1030.9267578125","timestamp":"2017-02-16T05:36:25.768Z"}
+{"level":"info","message":"New Measure - temperature : 28.02842903137207","timestamp":"2017-02-16T05:36:26.759Z"}
+{"level":"info","message":"New Measure - humidity : 38.20097732543945","timestamp":"2017-02-16T05:36:26.762Z"}
+{"level":"info","message":"New Measure - pressure : 1030.9365234375","timestamp":"2017-02-16T05:36:26.765Z"}
+{"level":"info","message":"New Measure - temperature : 28.063013076782227","timestamp":"2017-02-16T05:36:27.771Z"}
+{"level":"info","message":"New Measure - humidity : 37.84812545776367","timestamp":"2017-02-16T05:36:27.776Z"}
+{"level":"info","message":"New Measure - pressure : 1030.95263671875","timestamp":"2017-02-16T05:36:27.778Z"}
+{"level":"info","message":"New Measure - temperature : 27.976552963256836","timestamp":"2017-02-16T05:36:28.796Z"}
+{"level":"info","message":"New Measure - humidity : 37.80802917480469","timestamp":"2017-02-16T05:36:28.800Z"}
+{"level":"info","message":"New Measure - pressure : 1030.924072265625","timestamp":"2017-02-16T05:36:28.805Z"}
+{"level":"info","message":"New Measure - temperature : 27.959260940551758","timestamp":"2017-02-16T05:36:29.859Z"}
+{"level":"info","message":"New Measure - humidity : 37.691749572753906","timestamp":"2017-02-16T05:36:29.862Z"}
+{"level":"info","message":"New Measure - pressure : 1030.92529296875","timestamp":"2017-02-16T05:36:29.865Z"}
+{"level":"info","message":"New Measure - temperature : 28.011137008666992","timestamp":"2017-02-16T05:36:30.819Z"}
+{"level":"info","message":"New Measure - humidity : 37.892234802246094","timestamp":"2017-02-16T05:36:30.822Z"}
+{"level":"info","message":"New Measure - pressure : 1030.957275390625","timestamp":"2017-02-16T05:36:30.824Z"}
+{"level":"info","message":"New Measure - temperature : 27.993844985961914","timestamp":"2017-02-16T05:36:31.841Z"}
+{"level":"info","message":"New Measure - humidity : 38.9989013671875","timestamp":"2017-02-16T05:36:31.844Z"}
+{"level":"info","message":"New Measure - pressure : 1030.968994140625","timestamp":"2017-02-16T05:36:31.846Z"}
+{"level":"info","message":"New Measure - temperature : 27.838218688964844","timestamp":"2017-02-16T05:36:32.850Z"}
+{"level":"info","message":"New Measure - humidity : 38.22904586791992","timestamp":"2017-02-16T05:36:32.853Z"}
+{"level":"info","message":"New Measure - pressure : 1030.945068359375","timestamp":"2017-02-16T05:36:32.855Z"}
+{"level":"info","message":"New Measure - temperature : 27.976552963256836","timestamp":"2017-02-16T05:36:33.866Z"}
+{"level":"info","message":"New Measure - humidity : 38.032569885253906","timestamp":"2017-02-16T05:36:33.873Z"}
+{"level":"info","message":"New Measure - pressure : 1030.928466796875","timestamp":"2017-02-16T05:36:33.876Z"}
+{"level":"info","message":"New Measure - temperature : 27.94196891784668","timestamp":"2017-02-16T05:36:34.926Z"}
+{"level":"info","message":"New Measure - humidity : 37.93634033203125","timestamp":"2017-02-16T05:36:34.928Z"}
+{"level":"info","message":"New Measure - pressure : 1030.921875","timestamp":"2017-02-16T05:36:34.930Z"}
+{"level":"info","message":"New Measure - temperature : 27.94196891784668","timestamp":"2017-02-16T05:36:35.884Z"}
+{"level":"info","message":"New Measure - humidity : 37.93232727050781","timestamp":"2017-02-16T05:36:35.895Z"}
+{"level":"info","message":"New Measure - pressure : 1030.941650390625","timestamp":"2017-02-16T05:36:35.897Z"}
+{"level":"info","message":"New Measure - temperature : 27.993844985961914","timestamp":"2017-02-16T05:36:36.909Z"}
+{"level":"info","message":"New Measure - humidity : 37.968414306640625","timestamp":"2017-02-16T05:36:36.917Z"}
+{"level":"info","message":"New Measure - pressure : 1030.951416015625","timestamp":"2017-02-16T05:36:36.921Z"}
+{"level":"info","message":"New Measure - temperature : 28.149471282958984","timestamp":"2017-02-16T05:36:37.904Z"}
+{"level":"info","message":"New Measure - humidity : 37.96440887451172","timestamp":"2017-02-16T05:36:37.907Z"}
+{"level":"info","message":"New Measure - pressure : 1030.942138671875","timestamp":"2017-02-16T05:36:37.912Z"}
+{"level":"info","message":"New Measure - temperature : 27.94196891784668","timestamp":"2017-02-16T05:36:38.949Z"}
+{"level":"info","message":"New Measure - humidity : 36.881797790527344","timestamp":"2017-02-16T05:36:38.957Z"}
+{"level":"info","message":"New Measure - pressure : 1030.9453125","timestamp":"2017-02-16T05:36:38.964Z"}
+{"level":"info","message":"New Measure - temperature : 27.907386779785156","timestamp":"2017-02-16T05:36:39.972Z"}
+{"level":"info","message":"New Measure - humidity : 37.81203842163086","timestamp":"2017-02-16T05:36:39.977Z"}
+{"level":"info","message":"New Measure - pressure : 1030.94482421875","timestamp":"2017-02-16T05:36:39.980Z"}
+{"level":"info","message":"New Measure - temperature : 27.959260940551758","timestamp":"2017-02-16T05:36:40.952Z"}
+{"level":"info","message":"New Measure - humidity : 37.804019927978516","timestamp":"2017-02-16T05:36:40.954Z"}
+{"level":"info","message":"New Measure - pressure : 1030.953369140625","timestamp":"2017-02-16T05:36:40.955Z"}
+{"level":"info","message":"New Measure - temperature : 27.94196891784668","timestamp":"2017-02-16T05:36:41.960Z"}
+{"level":"info","message":"New Measure - humidity : 37.77996063232422","timestamp":"2017-02-16T05:36:41.961Z"}
+{"level":"info","message":"New Measure - pressure : 1030.95068359375","timestamp":"2017-02-16T05:36:41.963Z"}
+{"level":"info","message":"New Measure - temperature : 28.063013076782227","timestamp":"2017-02-16T05:36:42.969Z"}
+{"level":"info","message":"New Measure - humidity : 37.75991439819336","timestamp":"2017-02-16T05:36:42.971Z"}
+{"level":"info","message":"New Measure - pressure : 1030.947021484375","timestamp":"2017-02-16T05:36:42.972Z"}
+{"level":"info","message":"New Measure - temperature : 28.011137008666992","timestamp":"2017-02-16T05:36:44.033Z"}
+{"level":"info","message":"New Measure - humidity : 37.5032958984375","timestamp":"2017-02-16T05:36:44.036Z"}
+{"level":"info","message":"New Measure - pressure : 1030.951904296875","timestamp":"2017-02-16T05:36:44.039Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T05:38:08.830Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T05:38:09.019Z"}
+{"level":"info","message":"New Measure - temperature : 28.08","timestamp":"2017-02-16T05:38:10.903Z"}
+{"level":"info","message":"New Measure - humidity : 37.34","timestamp":"2017-02-16T05:38:10.906Z"}
+{"level":"info","message":"New Measure - pressure : 1030.95","timestamp":"2017-02-16T05:38:10.907Z"}
+{"level":"info","message":"New Measure - temperature : 28.13","timestamp":"2017-02-16T05:38:11.788Z"}
+{"level":"info","message":"New Measure - pressure : 1030.97","timestamp":"2017-02-16T05:38:11.791Z"}
+{"level":"info","message":"New Measure - humidity : 37.79","timestamp":"2017-02-16T05:38:11.794Z"}
+{"level":"info","message":"New Measure - temperature : 28.06","timestamp":"2017-02-16T05:38:12.806Z"}
+{"level":"info","message":"New Measure - humidity : 37.72","timestamp":"2017-02-16T05:38:12.810Z"}
+{"level":"info","message":"New Measure - pressure : 1030.97","timestamp":"2017-02-16T05:38:12.814Z"}
+{"level":"info","message":"New Measure - temperature : 28.08","timestamp":"2017-02-16T05:38:13.880Z"}
+{"level":"info","message":"New Measure - humidity : 38.35","timestamp":"2017-02-16T05:38:13.883Z"}
+{"level":"info","message":"New Measure - pressure : 1030.97","timestamp":"2017-02-16T05:38:13.885Z"}
+{"level":"info","message":"New Measure - temperature : 28.13","timestamp":"2017-02-16T05:38:14.822Z"}
+{"level":"info","message":"New Measure - humidity : 37.38","timestamp":"2017-02-16T05:38:14.824Z"}
+{"level":"info","message":"New Measure - pressure : 1030.97","timestamp":"2017-02-16T05:38:14.826Z"}
+{"level":"info","message":"New Measure - temperature : 28.13","timestamp":"2017-02-16T05:38:15.839Z"}
+{"level":"info","message":"New Measure - humidity : 37.6","timestamp":"2017-02-16T05:38:15.844Z"}
+{"level":"info","message":"New Measure - pressure : 1030.99","timestamp":"2017-02-16T05:38:15.848Z"}
+{"level":"info","message":"New Measure - temperature : 28.05","timestamp":"2017-02-16T05:38:16.857Z"}
+{"level":"info","message":"New Measure - humidity : 37.64","timestamp":"2017-02-16T05:38:16.860Z"}
+{"level":"info","message":"New Measure - pressure : 1030.98","timestamp":"2017-02-16T05:38:16.862Z"}
+{"level":"info","message":"New Measure - temperature : 28.15","timestamp":"2017-02-16T05:38:17.868Z"}
+{"level":"info","message":"New Measure - pressure : 1030.96","timestamp":"2017-02-16T05:38:17.871Z"}
+{"level":"info","message":"New Measure - humidity : 37.8","timestamp":"2017-02-16T05:38:17.874Z"}
+{"level":"info","message":"New Measure - temperature : 28.18","timestamp":"2017-02-16T05:38:18.957Z"}
+{"level":"info","message":"New Measure - humidity : 37.68","timestamp":"2017-02-16T05:38:18.964Z"}
+{"level":"info","message":"New Measure - pressure : 1030.95","timestamp":"2017-02-16T05:38:18.966Z"}
+{"level":"info","message":"New Measure - temperature : 28.29","timestamp":"2017-02-16T05:38:19.888Z"}
+{"level":"info","message":"New Measure - humidity : 37.87","timestamp":"2017-02-16T05:38:19.890Z"}
+{"level":"info","message":"New Measure - pressure : 1030.94","timestamp":"2017-02-16T05:38:19.891Z"}
+{"level":"info","message":"New Measure - temperature : 28.18","timestamp":"2017-02-16T05:38:20.897Z"}
+{"level":"info","message":"New Measure - pressure : 1030.94","timestamp":"2017-02-16T05:38:20.899Z"}
+{"level":"info","message":"New Measure - humidity : 38.1","timestamp":"2017-02-16T05:38:20.900Z"}
+{"level":"info","message":"New Measure - temperature : 28.13","timestamp":"2017-02-16T05:38:21.907Z"}
+{"level":"info","message":"New Measure - humidity : 37.78","timestamp":"2017-02-16T05:38:21.909Z"}
+{"level":"info","message":"New Measure - pressure : 1030.95","timestamp":"2017-02-16T05:38:21.911Z"}
+{"level":"info","message":"New Measure - temperature : 28.08","timestamp":"2017-02-16T05:38:22.925Z"}
+{"level":"info","message":"New Measure - humidity : 37.7","timestamp":"2017-02-16T05:38:22.926Z"}
+{"level":"info","message":"New Measure - pressure : 1030.95","timestamp":"2017-02-16T05:38:22.928Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T08:39:43.493Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T08:39:43.684Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T08:41:25.398Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T08:41:25.510Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T09:02:24.660Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T09:02:24.859Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T10:43:30.657Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T10:43:30.839Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T10:45:17.384Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T10:45:17.506Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T10:47:34.752Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T10:47:34.935Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T11:09:32.649Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T11:09:32.825Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T11:12:52.350Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T11:12:52.549Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T11:14:41.793Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T11:14:41.988Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T14:13:10.393Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T14:13:10.500Z"}
+{"level":"info","message":"New Measure - temperature : 31.83","timestamp":"2017-02-16T14:13:55.067Z"}
+{"level":"info","message":"New Measure - humidity : 38.71","timestamp":"2017-02-16T14:13:55.071Z"}
+{"level":"info","message":"New Measure - pressure : 0","timestamp":"2017-02-16T14:13:55.074Z"}
+{"level":"info","message":"New Measure - temperature : 31.88","timestamp":"2017-02-16T14:13:55.943Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:13:55.947Z"}
+{"level":"info","message":"New Measure - humidity : 37.38","timestamp":"2017-02-16T14:13:55.949Z"}
+{"level":"info","message":"New Measure - temperature : 31.9","timestamp":"2017-02-16T14:13:57.004Z"}
+{"level":"info","message":"New Measure - humidity : 37.22","timestamp":"2017-02-16T14:13:57.010Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:13:57.018Z"}
+{"level":"info","message":"New Measure - temperature : 31.87","timestamp":"2017-02-16T14:13:57.972Z"}
+{"level":"info","message":"New Measure - humidity : 37.4","timestamp":"2017-02-16T14:13:57.975Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:13:57.977Z"}
+{"level":"info","message":"New Measure - temperature : 31.95","timestamp":"2017-02-16T14:13:58.990Z"}
+{"level":"info","message":"New Measure - humidity : 37.11","timestamp":"2017-02-16T14:13:58.995Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:13:58.997Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:13:59.991Z"}
+{"level":"info","message":"New Measure - humidity : 37.14","timestamp":"2017-02-16T14:13:59.994Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:13:59.996Z"}
+{"level":"info","message":"New Measure - temperature : 31.88","timestamp":"2017-02-16T14:14:01.023Z"}
+{"level":"info","message":"New Measure - humidity : 37.32","timestamp":"2017-02-16T14:14:01.029Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:14:01.031Z"}
+{"level":"info","message":"New Measure - temperature : 31.9","timestamp":"2017-02-16T14:14:02.041Z"}
+{"level":"info","message":"New Measure - humidity : 37.25","timestamp":"2017-02-16T14:14:02.046Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:14:02.050Z"}
+{"level":"info","message":"New Measure - temperature : 31.82","timestamp":"2017-02-16T14:14:03.028Z"}
+{"level":"info","message":"New Measure - humidity : 37.43","timestamp":"2017-02-16T14:14:03.030Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:14:03.032Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:14:04.037Z"}
+{"level":"info","message":"New Measure - humidity : 37.38","timestamp":"2017-02-16T14:14:04.039Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:14:04.041Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:14:05.053Z"}
+{"level":"info","message":"New Measure - humidity : 38.4","timestamp":"2017-02-16T14:14:05.055Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:14:05.059Z"}
+{"level":"info","message":"New Measure - temperature : 31.94","timestamp":"2017-02-16T14:14:06.065Z"}
+{"level":"info","message":"New Measure - humidity : 37.27","timestamp":"2017-02-16T14:14:06.070Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:14:06.072Z"}
+{"level":"info","message":"New Measure - temperature : 31.94","timestamp":"2017-02-16T14:14:07.106Z"}
+{"level":"info","message":"New Measure - humidity : 37.11","timestamp":"2017-02-16T14:14:07.109Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:14:07.112Z"}
+{"level":"info","message":"New Measure - temperature : 31.94","timestamp":"2017-02-16T14:14:08.101Z"}
+{"level":"info","message":"New Measure - humidity : 37.56","timestamp":"2017-02-16T14:14:08.102Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:14:08.104Z"}
+{"level":"info","message":"New Measure - temperature : 31.88","timestamp":"2017-02-16T14:14:09.113Z"}
+{"level":"info","message":"New Measure - humidity : 37.16","timestamp":"2017-02-16T14:14:09.115Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:14:09.116Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:14:10.123Z"}
+{"level":"info","message":"New Measure - humidity : 36","timestamp":"2017-02-16T14:14:10.125Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:14:10.126Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:14:11.147Z"}
+{"level":"info","message":"New Measure - humidity : 37.3","timestamp":"2017-02-16T14:14:11.149Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:14:11.152Z"}
+{"level":"info","message":"New Measure - temperature : 31.94","timestamp":"2017-02-16T14:14:12.174Z"}
+{"level":"info","message":"New Measure - humidity : 36.95","timestamp":"2017-02-16T14:14:12.179Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:14:12.182Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:14:13.196Z"}
+{"level":"info","message":"New Measure - humidity : 37.49","timestamp":"2017-02-16T14:14:13.199Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:14:13.202Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:14:14.216Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:14:14.219Z"}
+{"level":"info","message":"New Measure - humidity : 37.27","timestamp":"2017-02-16T14:14:14.226Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:14:15.228Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:14:15.232Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:14:15.235Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T14:18:18.053Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T14:18:18.158Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:18:21.535Z"}
+{"level":"info","message":"New Measure - humidity : 37.17","timestamp":"2017-02-16T14:18:21.538Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:18:21.539Z"}
+{"level":"info","message":"New Measure - temperature : 32.02","timestamp":"2017-02-16T14:18:22.490Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:18:22.495Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:18:22.501Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:18:23.442Z"}
+{"level":"info","message":"New Measure - humidity : 37.33","timestamp":"2017-02-16T14:18:23.445Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:18:23.448Z"}
+{"level":"info","message":"New Measure - temperature : 31.95","timestamp":"2017-02-16T14:18:24.460Z"}
+{"level":"info","message":"New Measure - humidity : 37.35","timestamp":"2017-02-16T14:18:24.462Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:18:24.465Z"}
+{"level":"info","message":"New Measure - temperature : 31.94","timestamp":"2017-02-16T14:18:25.458Z"}
+{"level":"info","message":"New Measure - humidity : 36.39","timestamp":"2017-02-16T14:18:25.461Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:18:25.463Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:18:26.476Z"}
+{"level":"info","message":"New Measure - humidity : 36.89","timestamp":"2017-02-16T14:18:26.480Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:18:26.482Z"}
+{"level":"info","message":"New Measure - temperature : 32.02","timestamp":"2017-02-16T14:18:27.558Z"}
+{"level":"info","message":"New Measure - humidity : 37.49","timestamp":"2017-02-16T14:18:27.561Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:18:27.563Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T14:18:44.582Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T14:18:44.819Z"}
+{"level":"info","message":"New Measure - temperature : 31.92","timestamp":"2017-02-16T14:18:54.984Z"}
+{"level":"info","message":"New Measure - humidity : 36.15","timestamp":"2017-02-16T14:18:54.988Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:18:54.989Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:18:55.824Z"}
+{"level":"info","message":"New Measure - humidity : 37.33","timestamp":"2017-02-16T14:18:55.828Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:18:55.831Z"}
+{"level":"info","message":"New Measure - temperature : 31.92","timestamp":"2017-02-16T14:18:56.882Z"}
+{"level":"info","message":"New Measure - humidity : 37.3","timestamp":"2017-02-16T14:18:56.886Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:18:56.891Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:18:57.857Z"}
+{"level":"info","message":"New Measure - humidity : 37.53","timestamp":"2017-02-16T14:18:57.863Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:18:57.865Z"}
+{"level":"info","message":"New Measure - temperature : 32.04","timestamp":"2017-02-16T14:18:58.859Z"}
+{"level":"info","message":"New Measure - humidity : 38.51","timestamp":"2017-02-16T14:18:58.862Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:18:58.864Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:18:59.874Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:18:59.876Z"}
+{"level":"info","message":"New Measure - humidity : 37.1","timestamp":"2017-02-16T14:18:59.880Z"}
+{"level":"info","message":"New Measure - temperature : 32.02","timestamp":"2017-02-16T14:19:00.896Z"}
+{"level":"info","message":"New Measure - humidity : 37.02","timestamp":"2017-02-16T14:19:00.898Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:00.900Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:19:01.926Z"}
+{"level":"info","message":"New Measure - humidity : 36.87","timestamp":"2017-02-16T14:19:01.928Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:01.930Z"}
+{"level":"info","message":"New Measure - temperature : 32.02","timestamp":"2017-02-16T14:19:02.920Z"}
+{"level":"info","message":"New Measure - humidity : 37.37","timestamp":"2017-02-16T14:19:02.922Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:02.924Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:19:03.925Z"}
+{"level":"info","message":"New Measure - humidity : 36.6","timestamp":"2017-02-16T14:19:03.926Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:03.928Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:19:04.937Z"}
+{"level":"info","message":"New Measure - humidity : 36.79","timestamp":"2017-02-16T14:19:04.939Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:04.941Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:19:05.951Z"}
+{"level":"info","message":"New Measure - humidity : 37.18","timestamp":"2017-02-16T14:19:05.953Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:19:05.954Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:06.987Z"}
+{"level":"info","message":"New Measure - humidity : 37.15","timestamp":"2017-02-16T14:19:06.990Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:06.995Z"}
+{"level":"info","message":"New Measure - temperature : 31.94","timestamp":"2017-02-16T14:19:07.991Z"}
+{"level":"info","message":"New Measure - humidity : 37.03","timestamp":"2017-02-16T14:19:07.993Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:07.996Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:19:09.006Z"}
+{"level":"info","message":"New Measure - humidity : 37.15","timestamp":"2017-02-16T14:19:09.008Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:19:09.010Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:19:10.004Z"}
+{"level":"info","message":"New Measure - humidity : 36.67","timestamp":"2017-02-16T14:19:10.006Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:19:10.008Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:19:11.022Z"}
+{"level":"info","message":"New Measure - humidity : 37.52","timestamp":"2017-02-16T14:19:11.025Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:19:11.027Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:19:12.040Z"}
+{"level":"info","message":"New Measure - humidity : 37.29","timestamp":"2017-02-16T14:19:12.045Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:12.048Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:19:13.070Z"}
+{"level":"info","message":"New Measure - humidity : 37.1","timestamp":"2017-02-16T14:19:13.074Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:13.078Z"}
+{"level":"info","message":"New Measure - temperature : 31.92","timestamp":"2017-02-16T14:19:14.068Z"}
+{"level":"info","message":"New Measure - humidity : 37.15","timestamp":"2017-02-16T14:19:14.070Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:14.072Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:19:15.069Z"}
+{"level":"info","message":"New Measure - humidity : 36.33","timestamp":"2017-02-16T14:19:15.081Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:15.086Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:19:16.108Z"}
+{"level":"info","message":"New Measure - humidity : 37.15","timestamp":"2017-02-16T14:19:16.113Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:16.121Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:19:17.167Z"}
+{"level":"info","message":"New Measure - humidity : 37.23","timestamp":"2017-02-16T14:19:17.169Z"}
+{"level":"info","message":"New Measure - pressure : 1029.6","timestamp":"2017-02-16T14:19:17.171Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:19:18.131Z"}
+{"level":"info","message":"New Measure - humidity : 36.91","timestamp":"2017-02-16T14:19:18.134Z"}
+{"level":"info","message":"New Measure - pressure : 1029.61","timestamp":"2017-02-16T14:19:18.136Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:19:19.139Z"}
+{"level":"info","message":"New Measure - humidity : 37.3","timestamp":"2017-02-16T14:19:19.142Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:19.144Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:19:20.162Z"}
+{"level":"info","message":"New Measure - humidity : 36.92","timestamp":"2017-02-16T14:19:20.166Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:20.168Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:19:21.171Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:21.173Z"}
+{"level":"info","message":"New Measure - humidity : 37.27","timestamp":"2017-02-16T14:19:21.175Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:22.234Z"}
+{"level":"info","message":"New Measure - humidity : 37.41","timestamp":"2017-02-16T14:19:22.236Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:19:22.238Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:19:23.197Z"}
+{"level":"info","message":"New Measure - humidity : 37.11","timestamp":"2017-02-16T14:19:23.199Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:19:23.201Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:19:24.234Z"}
+{"level":"info","message":"New Measure - humidity : 37.4","timestamp":"2017-02-16T14:19:24.241Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:24.245Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:19:25.216Z"}
+{"level":"info","message":"New Measure - humidity : 36.2","timestamp":"2017-02-16T14:19:25.218Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:25.220Z"}
+{"level":"info","message":"New Measure - temperature : 32.02","timestamp":"2017-02-16T14:19:26.226Z"}
+{"level":"info","message":"New Measure - humidity : 37.3","timestamp":"2017-02-16T14:19:26.229Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:19:26.231Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:19:27.331Z"}
+{"level":"info","message":"New Measure - humidity : 36.85","timestamp":"2017-02-16T14:19:27.337Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:19:27.339Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:28.263Z"}
+{"level":"info","message":"New Measure - humidity : 37.23","timestamp":"2017-02-16T14:19:28.266Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:19:28.268Z"}
+{"level":"info","message":"New Measure - temperature : 32.01","timestamp":"2017-02-16T14:19:29.276Z"}
+{"level":"info","message":"New Measure - humidity : 37.02","timestamp":"2017-02-16T14:19:29.278Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:29.280Z"}
+{"level":"info","message":"New Measure - temperature : 32.04","timestamp":"2017-02-16T14:19:30.290Z"}
+{"level":"info","message":"New Measure - humidity : 36.67","timestamp":"2017-02-16T14:19:30.291Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:30.295Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:19:31.309Z"}
+{"level":"info","message":"New Measure - humidity : 37.06","timestamp":"2017-02-16T14:19:31.311Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:31.313Z"}
+{"level":"info","message":"New Measure - temperature : 32.04","timestamp":"2017-02-16T14:19:32.388Z"}
+{"level":"info","message":"New Measure - humidity : 37.23","timestamp":"2017-02-16T14:19:32.392Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:32.394Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:19:33.338Z"}
+{"level":"info","message":"New Measure - humidity : 36.97","timestamp":"2017-02-16T14:19:33.340Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:33.341Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:19:34.352Z"}
+{"level":"info","message":"New Measure - humidity : 37.58","timestamp":"2017-02-16T14:19:34.354Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:34.356Z"}
+{"level":"info","message":"New Measure - temperature : 32.02","timestamp":"2017-02-16T14:19:35.369Z"}
+{"level":"info","message":"New Measure - humidity : 38.29","timestamp":"2017-02-16T14:19:35.372Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:35.374Z"}
+{"level":"info","message":"New Measure - temperature : 32.04","timestamp":"2017-02-16T14:19:36.374Z"}
+{"level":"info","message":"New Measure - humidity : 36.9","timestamp":"2017-02-16T14:19:36.376Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:19:36.378Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:37.451Z"}
+{"level":"info","message":"New Measure - humidity : 37.21","timestamp":"2017-02-16T14:19:37.468Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:19:37.471Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:19:38.473Z"}
+{"level":"info","message":"New Measure - humidity : 36.96","timestamp":"2017-02-16T14:19:38.487Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:38.490Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:19:39.424Z"}
+{"level":"info","message":"New Measure - humidity : 37.43","timestamp":"2017-02-16T14:19:39.426Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:39.428Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:40.436Z"}
+{"level":"info","message":"New Measure - humidity : 37.32","timestamp":"2017-02-16T14:19:40.438Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:40.440Z"}
+{"level":"info","message":"New Measure - temperature : 32.04","timestamp":"2017-02-16T14:19:41.450Z"}
+{"level":"info","message":"New Measure - humidity : 37.26","timestamp":"2017-02-16T14:19:41.453Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:41.454Z"}
+{"level":"info","message":"New Measure - temperature : 32.04","timestamp":"2017-02-16T14:19:42.542Z"}
+{"level":"info","message":"New Measure - humidity : 37.44","timestamp":"2017-02-16T14:19:42.545Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:42.547Z"}
+{"level":"info","message":"New Measure - temperature : 32.02","timestamp":"2017-02-16T14:19:43.487Z"}
+{"level":"info","message":"New Measure - humidity : 37.19","timestamp":"2017-02-16T14:19:43.489Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:19:43.491Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:19:44.497Z"}
+{"level":"info","message":"New Measure - humidity : 37.59","timestamp":"2017-02-16T14:19:44.499Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:44.501Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:19:45.506Z"}
+{"level":"info","message":"New Measure - humidity : 37.64","timestamp":"2017-02-16T14:19:45.508Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:19:45.509Z"}
+{"level":"info","message":"New Measure - temperature : 31.99","timestamp":"2017-02-16T14:19:46.517Z"}
+{"level":"info","message":"New Measure - humidity : 37.19","timestamp":"2017-02-16T14:19:46.519Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:19:46.521Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:47.545Z"}
+{"level":"info","message":"New Measure - humidity : 37.52","timestamp":"2017-02-16T14:19:47.551Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:47.554Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:19:48.555Z"}
+{"level":"info","message":"New Measure - humidity : 37.4","timestamp":"2017-02-16T14:19:48.576Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:48.578Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:19:49.594Z"}
+{"level":"info","message":"New Measure - humidity : 37.38","timestamp":"2017-02-16T14:19:49.597Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:49.599Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:50.592Z"}
+{"level":"info","message":"New Measure - humidity : 37.5","timestamp":"2017-02-16T14:19:50.593Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:19:50.595Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:19:51.608Z"}
+{"level":"info","message":"New Measure - humidity : 37.97","timestamp":"2017-02-16T14:19:51.612Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:51.613Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:19:52.643Z"}
+{"level":"info","message":"New Measure - humidity : 37.12","timestamp":"2017-02-16T14:19:52.647Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:52.651Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:19:53.654Z"}
+{"level":"info","message":"New Measure - humidity : 37.35","timestamp":"2017-02-16T14:19:53.657Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:19:53.661Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:19:54.669Z"}
+{"level":"info","message":"New Measure - humidity : 37.27","timestamp":"2017-02-16T14:19:54.672Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:19:54.677Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:19:55.683Z"}
+{"level":"info","message":"New Measure - humidity : 37.15","timestamp":"2017-02-16T14:19:55.685Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:55.689Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:19:56.701Z"}
+{"level":"info","message":"New Measure - humidity : 36.34","timestamp":"2017-02-16T14:19:56.704Z"}
+{"level":"info","message":"New Measure - pressure : 1029.6","timestamp":"2017-02-16T14:19:56.707Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:19:57.705Z"}
+{"level":"info","message":"New Measure - humidity : 36.97","timestamp":"2017-02-16T14:19:57.732Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:19:57.735Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:19:58.765Z"}
+{"level":"info","message":"New Measure - humidity : 37.38","timestamp":"2017-02-16T14:19:58.777Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:19:58.779Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:19:59.793Z"}
+{"level":"info","message":"New Measure - humidity : 37.09","timestamp":"2017-02-16T14:19:59.796Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:19:59.807Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:20:00.757Z"}
+{"level":"info","message":"New Measure - humidity : 37.46","timestamp":"2017-02-16T14:20:00.782Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:20:00.785Z"}
+{"level":"info","message":"New Measure - temperature : 31.97","timestamp":"2017-02-16T14:20:01.808Z"}
+{"level":"info","message":"New Measure - humidity : 37.17","timestamp":"2017-02-16T14:20:01.817Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:20:01.819Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:20:02.802Z"}
+{"level":"info","message":"New Measure - humidity : 37.21","timestamp":"2017-02-16T14:20:02.804Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:20:02.805Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:20:03.826Z"}
+{"level":"info","message":"New Measure - humidity : 37.52","timestamp":"2017-02-16T14:20:03.829Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:20:03.832Z"}
+{"level":"info","message":"New Measure - temperature : 32.11","timestamp":"2017-02-16T14:20:04.823Z"}
+{"level":"info","message":"New Measure - humidity : 36.97","timestamp":"2017-02-16T14:20:04.825Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:20:04.827Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:20:05.833Z"}
+{"level":"info","message":"New Measure - humidity : 37.37","timestamp":"2017-02-16T14:20:05.838Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:20:05.840Z"}
+{"level":"info","message":"New Measure - temperature : 32.11","timestamp":"2017-02-16T14:20:06.859Z"}
+{"level":"info","message":"New Measure - humidity : 37.82","timestamp":"2017-02-16T14:20:06.862Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:20:06.864Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:20:07.877Z"}
+{"level":"info","message":"New Measure - humidity : 37.14","timestamp":"2017-02-16T14:20:07.880Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:20:07.883Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:20:08.898Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:20:08.901Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:20:08.903Z"}
+{"level":"info","message":"New Measure - temperature : 32.09","timestamp":"2017-02-16T14:20:09.900Z"}
+{"level":"info","message":"New Measure - humidity : 37.21","timestamp":"2017-02-16T14:20:09.902Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:20:09.903Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:20:10.917Z"}
+{"level":"info","message":"New Measure - humidity : 37.36","timestamp":"2017-02-16T14:20:10.919Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:20:10.924Z"}
+{"level":"info","message":"New Measure - temperature : 32.11","timestamp":"2017-02-16T14:20:11.944Z"}
+{"level":"info","message":"New Measure - humidity : 37.4","timestamp":"2017-02-16T14:20:11.947Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:20:11.950Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:20:12.963Z"}
+{"level":"info","message":"New Measure - humidity : 37.23","timestamp":"2017-02-16T14:20:12.966Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:20:12.969Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:20:13.986Z"}
+{"level":"info","message":"New Measure - humidity : 37.03","timestamp":"2017-02-16T14:20:13.989Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:20:13.991Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:20:15.009Z"}
+{"level":"info","message":"New Measure - humidity : 37.42","timestamp":"2017-02-16T14:20:15.013Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:20:15.017Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T14:21:04.182Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T14:21:04.287Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:07.748Z"}
+{"level":"info","message":"New Measure - humidity : 37.07","timestamp":"2017-02-16T14:21:07.751Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:21:07.753Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:21:08.699Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:21:08.703Z"}
+{"level":"info","message":"New Measure - humidity : 37.11","timestamp":"2017-02-16T14:21:08.706Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:21:09.645Z"}
+{"level":"info","message":"New Measure - humidity : 34.99","timestamp":"2017-02-16T14:21:09.648Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:09.650Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:21:10.651Z"}
+{"level":"info","message":"New Measure - humidity : 36.6","timestamp":"2017-02-16T14:21:10.656Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:10.659Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:21:11.695Z"}
+{"level":"info","message":"New Measure - humidity : 37.22","timestamp":"2017-02-16T14:21:11.698Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:11.701Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:21:12.678Z"}
+{"level":"info","message":"New Measure - humidity : 37.11","timestamp":"2017-02-16T14:21:12.680Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:12.683Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:13.690Z"}
+{"level":"info","message":"New Measure - humidity : 37.2","timestamp":"2017-02-16T14:21:13.691Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:21:13.696Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:21:14.709Z"}
+{"level":"info","message":"New Measure - humidity : 35.49","timestamp":"2017-02-16T14:21:14.712Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:14.713Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:21:15.715Z"}
+{"level":"info","message":"New Measure - humidity : 36.76","timestamp":"2017-02-16T14:21:15.720Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:21:15.722Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:21:16.735Z"}
+{"level":"info","message":"New Measure - humidity : 37.18","timestamp":"2017-02-16T14:21:16.741Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:16.744Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:17.769Z"}
+{"level":"info","message":"New Measure - humidity : 37.02","timestamp":"2017-02-16T14:21:17.777Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:17.780Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:21:18.774Z"}
+{"level":"info","message":"New Measure - humidity : 36.89","timestamp":"2017-02-16T14:21:18.777Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:18.779Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:19.811Z"}
+{"level":"info","message":"New Measure - humidity : 37.84","timestamp":"2017-02-16T14:21:19.815Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:21:19.820Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:21:20.800Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:21:20.801Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:20.803Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:21:21.832Z"}
+{"level":"info","message":"New Measure - humidity : 37.32","timestamp":"2017-02-16T14:21:21.835Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:21:21.838Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:21:22.824Z"}
+{"level":"info","message":"New Measure - humidity : 37.11","timestamp":"2017-02-16T14:21:22.825Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:21:22.827Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:21:23.837Z"}
+{"level":"info","message":"New Measure - humidity : 37.29","timestamp":"2017-02-16T14:21:23.839Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:21:23.841Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:21:24.846Z"}
+{"level":"info","message":"New Measure - humidity : 36.3","timestamp":"2017-02-16T14:21:24.850Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:21:24.852Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:25.861Z"}
+{"level":"info","message":"New Measure - humidity : 36.79","timestamp":"2017-02-16T14:21:25.864Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:25.865Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:21:26.888Z"}
+{"level":"info","message":"New Measure - humidity : 37.12","timestamp":"2017-02-16T14:21:26.892Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:21:26.895Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:21:27.891Z"}
+{"level":"info","message":"New Measure - humidity : 36.98","timestamp":"2017-02-16T14:21:27.893Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:21:27.897Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:21:28.915Z"}
+{"level":"info","message":"New Measure - humidity : 37.33","timestamp":"2017-02-16T14:21:28.920Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:21:28.924Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:21:29.912Z"}
+{"level":"info","message":"New Measure - humidity : 36.75","timestamp":"2017-02-16T14:21:29.914Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:21:29.918Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:30.981Z"}
+{"level":"info","message":"New Measure - humidity : 37.21","timestamp":"2017-02-16T14:21:30.984Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:21:30.986Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:21:31.950Z"}
+{"level":"info","message":"New Measure - humidity : 37.31","timestamp":"2017-02-16T14:21:31.953Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:31.957Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:21:32.990Z"}
+{"level":"info","message":"New Measure - humidity : 37.03","timestamp":"2017-02-16T14:21:32.996Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:21:32.999Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:21:34.000Z"}
+{"level":"info","message":"New Measure - humidity : 36.96","timestamp":"2017-02-16T14:21:34.003Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:34.006Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:21:35.023Z"}
+{"level":"info","message":"New Measure - humidity : 36.56","timestamp":"2017-02-16T14:21:35.026Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:35.028Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:21:36.067Z"}
+{"level":"info","message":"New Measure - humidity : 36.84","timestamp":"2017-02-16T14:21:36.071Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:21:36.073Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:37.098Z"}
+{"level":"info","message":"New Measure - humidity : 37.08","timestamp":"2017-02-16T14:21:37.100Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:21:37.105Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:21:38.037Z"}
+{"level":"info","message":"New Measure - humidity : 37.14","timestamp":"2017-02-16T14:21:38.039Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:21:38.041Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:21:39.047Z"}
+{"level":"info","message":"New Measure - humidity : 36.98","timestamp":"2017-02-16T14:21:39.050Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:39.051Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:21:40.062Z"}
+{"level":"info","message":"New Measure - humidity : 37.18","timestamp":"2017-02-16T14:21:40.072Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:40.074Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:21:41.123Z"}
+{"level":"info","message":"New Measure - humidity : 37","timestamp":"2017-02-16T14:21:41.124Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:41.126Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:21:42.104Z"}
+{"level":"info","message":"New Measure - humidity : 36.89","timestamp":"2017-02-16T14:21:42.108Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:42.110Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:43.122Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:21:43.125Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:43.130Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:21:44.139Z"}
+{"level":"info","message":"New Measure - humidity : 36.79","timestamp":"2017-02-16T14:21:44.142Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:21:44.145Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:21:45.158Z"}
+{"level":"info","message":"New Measure - humidity : 37.19","timestamp":"2017-02-16T14:21:45.161Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:21:45.163Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:21:46.232Z"}
+{"level":"info","message":"New Measure - humidity : 36.02","timestamp":"2017-02-16T14:21:46.235Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:46.238Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:21:47.199Z"}
+{"level":"info","message":"New Measure - humidity : 37.09","timestamp":"2017-02-16T14:21:47.203Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:47.209Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:21:48.200Z"}
+{"level":"info","message":"New Measure - humidity : 37.05","timestamp":"2017-02-16T14:21:48.204Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:21:48.209Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:21:49.210Z"}
+{"level":"info","message":"New Measure - humidity : 36.73","timestamp":"2017-02-16T14:21:49.213Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:21:49.215Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:50.227Z"}
+{"level":"info","message":"New Measure - humidity : 37.22","timestamp":"2017-02-16T14:21:50.230Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:50.233Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:51.289Z"}
+{"level":"info","message":"New Measure - humidity : 37.36","timestamp":"2017-02-16T14:21:51.300Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:21:51.306Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:21:52.283Z"}
+{"level":"info","message":"New Measure - humidity : 36.78","timestamp":"2017-02-16T14:21:52.288Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:21:52.290Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:21:53.281Z"}
+{"level":"info","message":"New Measure - humidity : 37.28","timestamp":"2017-02-16T14:21:53.284Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:21:53.287Z"}
+{"level":"info","message":"New Measure - temperature : 32.07","timestamp":"2017-02-16T14:21:54.278Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:21:54.281Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:21:54.283Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:21:55.299Z"}
+{"level":"info","message":"New Measure - humidity : 36.65","timestamp":"2017-02-16T14:21:55.302Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:55.308Z"}
+{"level":"info","message":"New Measure - temperature : 32.06","timestamp":"2017-02-16T14:21:56.361Z"}
+{"level":"info","message":"New Measure - humidity : 37.56","timestamp":"2017-02-16T14:21:56.363Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:21:56.365Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:57.327Z"}
+{"level":"info","message":"New Measure - humidity : 37.9","timestamp":"2017-02-16T14:21:57.330Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:21:57.337Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:21:58.358Z"}
+{"level":"info","message":"New Measure - humidity : 36.77","timestamp":"2017-02-16T14:21:58.361Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:21:58.380Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:21:59.353Z"}
+{"level":"info","message":"New Measure - humidity : 37.02","timestamp":"2017-02-16T14:21:59.355Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:21:59.356Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:00.368Z"}
+{"level":"info","message":"New Measure - humidity : 36.76","timestamp":"2017-02-16T14:22:00.370Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:22:00.372Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:01.416Z"}
+{"level":"info","message":"New Measure - humidity : 36.14","timestamp":"2017-02-16T14:22:01.419Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:22:01.420Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:22:02.398Z"}
+{"level":"info","message":"New Measure - humidity : 37.47","timestamp":"2017-02-16T14:22:02.401Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:02.404Z"}
+{"level":"info","message":"New Measure - temperature : 32.11","timestamp":"2017-02-16T14:22:03.419Z"}
+{"level":"info","message":"New Measure - humidity : 37.28","timestamp":"2017-02-16T14:22:03.421Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:03.424Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:22:04.438Z"}
+{"level":"info","message":"New Measure - humidity : 37.69","timestamp":"2017-02-16T14:22:04.441Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:04.447Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:05.456Z"}
+{"level":"info","message":"New Measure - humidity : 37.54","timestamp":"2017-02-16T14:22:05.459Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:05.461Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:22:06.478Z"}
+{"level":"info","message":"New Measure - humidity : 37.51","timestamp":"2017-02-16T14:22:06.483Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:06.489Z"}
+{"level":"info","message":"New Measure - temperature : 32.11","timestamp":"2017-02-16T14:22:07.510Z"}
+{"level":"info","message":"New Measure - humidity : 38.41","timestamp":"2017-02-16T14:22:07.513Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:07.515Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:08.500Z"}
+{"level":"info","message":"New Measure - humidity : 37.72","timestamp":"2017-02-16T14:22:08.501Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:08.503Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:22:09.513Z"}
+{"level":"info","message":"New Measure - humidity : 37.07","timestamp":"2017-02-16T14:22:09.515Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:09.517Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:22:10.520Z"}
+{"level":"info","message":"New Measure - humidity : 37.31","timestamp":"2017-02-16T14:22:10.522Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:22:10.524Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:22:11.538Z"}
+{"level":"info","message":"New Measure - humidity : 37.06","timestamp":"2017-02-16T14:22:11.545Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:11.547Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:22:12.561Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:22:12.564Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:12.568Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:22:13.603Z"}
+{"level":"info","message":"New Measure - humidity : 37.2","timestamp":"2017-02-16T14:22:13.609Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:13.611Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:22:14.599Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:14.601Z"}
+{"level":"info","message":"New Measure - humidity : 36.98","timestamp":"2017-02-16T14:22:14.606Z"}
+{"level":"info","message":"New Measure - temperature : 32.16","timestamp":"2017-02-16T14:22:15.600Z"}
+{"level":"info","message":"New Measure - humidity : 37.43","timestamp":"2017-02-16T14:22:15.602Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:15.604Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:16.609Z"}
+{"level":"info","message":"New Measure - humidity : 37.18","timestamp":"2017-02-16T14:22:16.611Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:16.613Z"}
+{"level":"info","message":"New Measure - temperature : 32.14","timestamp":"2017-02-16T14:22:17.632Z"}
+{"level":"info","message":"New Measure - humidity : 36.74","timestamp":"2017-02-16T14:22:17.635Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:17.638Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:22:18.643Z"}
+{"level":"info","message":"New Measure - humidity : 37.26","timestamp":"2017-02-16T14:22:18.646Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:22:18.648Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:19.661Z"}
+{"level":"info","message":"New Measure - humidity : 37.53","timestamp":"2017-02-16T14:22:19.665Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:19.668Z"}
+{"level":"info","message":"New Measure - temperature : 32.42","timestamp":"2017-02-16T14:22:20.679Z"}
+{"level":"info","message":"New Measure - humidity : 36.94","timestamp":"2017-02-16T14:22:20.682Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:20.685Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:22:21.705Z"}
+{"level":"info","message":"New Measure - humidity : 36.99","timestamp":"2017-02-16T14:22:21.711Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:21.715Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:22.720Z"}
+{"level":"info","message":"New Measure - humidity : 36.86","timestamp":"2017-02-16T14:22:22.723Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:22:22.728Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:23.741Z"}
+{"level":"info","message":"New Measure - humidity : 38.29","timestamp":"2017-02-16T14:22:23.745Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:23.748Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:24.751Z"}
+{"level":"info","message":"New Measure - humidity : 37.16","timestamp":"2017-02-16T14:22:24.754Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:24.757Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:22:25.775Z"}
+{"level":"info","message":"New Measure - humidity : 37.03","timestamp":"2017-02-16T14:22:25.777Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:25.780Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:22:26.791Z"}
+{"level":"info","message":"New Measure - humidity : 36.9","timestamp":"2017-02-16T14:22:26.794Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:26.796Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:22:27.812Z"}
+{"level":"info","message":"New Measure - humidity : 37.36","timestamp":"2017-02-16T14:22:27.815Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:27.817Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:28.830Z"}
+{"level":"info","message":"New Measure - humidity : 35.78","timestamp":"2017-02-16T14:22:28.833Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:28.835Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:29.852Z"}
+{"level":"info","message":"New Measure - humidity : 37.53","timestamp":"2017-02-16T14:22:29.854Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:29.857Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:22:30.867Z"}
+{"level":"info","message":"New Measure - humidity : 36.9","timestamp":"2017-02-16T14:22:30.870Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:30.880Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:22:31.886Z"}
+{"level":"info","message":"New Measure - humidity : 37.28","timestamp":"2017-02-16T14:22:31.889Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:31.891Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:22:32.903Z"}
+{"level":"info","message":"New Measure - humidity : 36.87","timestamp":"2017-02-16T14:22:32.906Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:32.909Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:22:33.911Z"}
+{"level":"info","message":"New Measure - humidity : 37.22","timestamp":"2017-02-16T14:22:33.913Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:33.917Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:22:34.920Z"}
+{"level":"info","message":"New Measure - humidity : 36.67","timestamp":"2017-02-16T14:22:34.922Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:34.927Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:22:35.932Z"}
+{"level":"info","message":"New Measure - humidity : 36.81","timestamp":"2017-02-16T14:22:35.933Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:35.935Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:22:36.959Z"}
+{"level":"info","message":"New Measure - humidity : 36.99","timestamp":"2017-02-16T14:22:36.963Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:36.966Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:22:37.975Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:22:37.977Z"}
+{"level":"info","message":"New Measure - humidity : 36.69","timestamp":"2017-02-16T14:22:37.980Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:22:38.994Z"}
+{"level":"info","message":"New Measure - humidity : 36.99","timestamp":"2017-02-16T14:22:38.997Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:39.005Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:22:40.012Z"}
+{"level":"info","message":"New Measure - humidity : 36.08","timestamp":"2017-02-16T14:22:40.014Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:22:40.017Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:22:41.030Z"}
+{"level":"info","message":"New Measure - humidity : 36.87","timestamp":"2017-02-16T14:22:41.033Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:41.036Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:42.142Z"}
+{"level":"info","message":"New Measure - humidity : 37.05","timestamp":"2017-02-16T14:22:42.144Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:42.147Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:22:43.065Z"}
+{"level":"info","message":"New Measure - humidity : 36.75","timestamp":"2017-02-16T14:22:43.067Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:43.069Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:44.068Z"}
+{"level":"info","message":"New Measure - humidity : 37.03","timestamp":"2017-02-16T14:22:44.069Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:44.071Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:22:45.085Z"}
+{"level":"info","message":"New Measure - humidity : 35.48","timestamp":"2017-02-16T14:22:45.088Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:22:45.091Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:22:46.092Z"}
+{"level":"info","message":"New Measure - humidity : 37.31","timestamp":"2017-02-16T14:22:46.094Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:46.095Z"}
+{"level":"info","message":"New Measure - temperature : 32.2","timestamp":"2017-02-16T14:22:47.117Z"}
+{"level":"info","message":"New Measure - humidity : 36.83","timestamp":"2017-02-16T14:22:47.120Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:47.122Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:22:48.138Z"}
+{"level":"info","message":"New Measure - humidity : 36.8","timestamp":"2017-02-16T14:22:48.141Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:22:48.144Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:22:49.153Z"}
+{"level":"info","message":"New Measure - humidity : 36.99","timestamp":"2017-02-16T14:22:49.156Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:22:49.158Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:22:50.182Z"}
+{"level":"info","message":"New Measure - humidity : 37.02","timestamp":"2017-02-16T14:22:50.185Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:22:50.187Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:51.196Z"}
+{"level":"info","message":"New Measure - humidity : 35.7","timestamp":"2017-02-16T14:22:51.198Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:22:51.201Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:22:52.208Z"}
+{"level":"info","message":"New Measure - humidity : 36.87","timestamp":"2017-02-16T14:22:52.211Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:52.213Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:22:53.227Z"}
+{"level":"info","message":"New Measure - humidity : 37.12","timestamp":"2017-02-16T14:22:53.230Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:53.232Z"}
+{"level":"info","message":"New Measure - temperature : 32.42","timestamp":"2017-02-16T14:22:54.246Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:22:54.249Z"}
+{"level":"info","message":"New Measure - humidity : 37.09","timestamp":"2017-02-16T14:22:54.252Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:22:55.264Z"}
+{"level":"info","message":"New Measure - humidity : 36.87","timestamp":"2017-02-16T14:22:55.267Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:22:55.270Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:22:56.283Z"}
+{"level":"info","message":"New Measure - humidity : 37.62","timestamp":"2017-02-16T14:22:56.286Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:22:56.288Z"}
+{"level":"info","message":"New Measure - temperature : 32.44","timestamp":"2017-02-16T14:22:57.302Z"}
+{"level":"info","message":"New Measure - humidity : 36.97","timestamp":"2017-02-16T14:22:57.305Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:22:57.320Z"}
+{"level":"info","message":"New Measure - temperature : 32.46","timestamp":"2017-02-16T14:22:58.324Z"}
+{"level":"info","message":"New Measure - humidity : 37.08","timestamp":"2017-02-16T14:22:58.327Z"}
+{"level":"info","message":"New Measure - pressure : 1029.5","timestamp":"2017-02-16T14:22:58.330Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:22:59.339Z"}
+{"level":"info","message":"New Measure - humidity : 37.05","timestamp":"2017-02-16T14:22:59.342Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:22:59.351Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:00.358Z"}
+{"level":"info","message":"New Measure - humidity : 36.84","timestamp":"2017-02-16T14:23:00.361Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:00.364Z"}
+{"level":"info","message":"New Measure - temperature : 32.39","timestamp":"2017-02-16T14:23:01.375Z"}
+{"level":"info","message":"New Measure - humidity : 36.89","timestamp":"2017-02-16T14:23:01.378Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:01.381Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:02.416Z"}
+{"level":"info","message":"New Measure - humidity : 37.12","timestamp":"2017-02-16T14:23:02.419Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:23:02.420Z"}
+{"level":"info","message":"New Measure - temperature : 32.39","timestamp":"2017-02-16T14:23:03.400Z"}
+{"level":"info","message":"New Measure - humidity : 36.93","timestamp":"2017-02-16T14:23:03.404Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:03.405Z"}
+{"level":"info","message":"New Measure - temperature : 32.42","timestamp":"2017-02-16T14:23:04.411Z"}
+{"level":"info","message":"New Measure - humidity : 36.77","timestamp":"2017-02-16T14:23:04.413Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:23:04.414Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:23:05.423Z"}
+{"level":"info","message":"New Measure - humidity : 37.21","timestamp":"2017-02-16T14:23:05.425Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:05.426Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:23:06.438Z"}
+{"level":"info","message":"New Measure - humidity : 37","timestamp":"2017-02-16T14:23:06.440Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:06.441Z"}
+{"level":"info","message":"New Measure - temperature : 32.39","timestamp":"2017-02-16T14:23:07.460Z"}
+{"level":"info","message":"New Measure - humidity : 36.99","timestamp":"2017-02-16T14:23:07.463Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:23:07.465Z"}
+{"level":"info","message":"New Measure - temperature : 32.46","timestamp":"2017-02-16T14:23:08.485Z"}
+{"level":"info","message":"New Measure - humidity : 37.07","timestamp":"2017-02-16T14:23:08.488Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:23:08.491Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:23:09.489Z"}
+{"level":"info","message":"New Measure - humidity : 37.11","timestamp":"2017-02-16T14:23:09.491Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:09.493Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:10.497Z"}
+{"level":"info","message":"New Measure - humidity : 37.1","timestamp":"2017-02-16T14:23:10.499Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:10.501Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:11.510Z"}
+{"level":"info","message":"New Measure - humidity : 37.07","timestamp":"2017-02-16T14:23:11.514Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:11.516Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:12.532Z"}
+{"level":"info","message":"New Measure - humidity : 37.3","timestamp":"2017-02-16T14:23:12.535Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:23:12.537Z"}
+{"level":"info","message":"New Measure - temperature : 32.47","timestamp":"2017-02-16T14:23:13.550Z"}
+{"level":"info","message":"New Measure - humidity : 38.17","timestamp":"2017-02-16T14:23:13.553Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:23:13.555Z"}
+{"level":"info","message":"New Measure - temperature : 32.4","timestamp":"2017-02-16T14:23:14.567Z"}
+{"level":"info","message":"New Measure - humidity : 36.83","timestamp":"2017-02-16T14:23:14.569Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:23:14.572Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:15.585Z"}
+{"level":"info","message":"New Measure - humidity : 36.99","timestamp":"2017-02-16T14:23:15.588Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:23:15.591Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:16.609Z"}
+{"level":"info","message":"New Measure - humidity : 36.73","timestamp":"2017-02-16T14:23:16.612Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:23:16.614Z"}
+{"level":"info","message":"New Measure - temperature : 32.42","timestamp":"2017-02-16T14:23:17.613Z"}
+{"level":"info","message":"New Measure - humidity : 36.89","timestamp":"2017-02-16T14:23:17.615Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:17.616Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:23:18.621Z"}
+{"level":"info","message":"New Measure - humidity : 36.95","timestamp":"2017-02-16T14:23:18.623Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:23:18.625Z"}
+{"level":"info","message":"New Measure - temperature : 32.47","timestamp":"2017-02-16T14:23:19.635Z"}
+{"level":"info","message":"New Measure - humidity : 36.51","timestamp":"2017-02-16T14:23:19.638Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:19.660Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:23:20.697Z"}
+{"level":"info","message":"New Measure - humidity : 37.02","timestamp":"2017-02-16T14:23:20.699Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:23:20.701Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:23:21.668Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:21.724Z"}
+{"level":"info","message":"New Measure - humidity : 37.07","timestamp":"2017-02-16T14:23:21.727Z"}
+{"level":"info","message":"New Measure - temperature : 32.4","timestamp":"2017-02-16T14:23:22.683Z"}
+{"level":"info","message":"New Measure - humidity : 36.82","timestamp":"2017-02-16T14:23:22.686Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:22.688Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:23.702Z"}
+{"level":"info","message":"New Measure - humidity : 37.26","timestamp":"2017-02-16T14:23:23.704Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:23:23.707Z"}
+{"level":"info","message":"New Measure - temperature : 32.39","timestamp":"2017-02-16T14:23:24.726Z"}
+{"level":"info","message":"New Measure - humidity : 37.24","timestamp":"2017-02-16T14:23:24.728Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:23:24.730Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:23:25.738Z"}
+{"level":"info","message":"New Measure - humidity : 36.85","timestamp":"2017-02-16T14:23:25.741Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:23:25.743Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:26.756Z"}
+{"level":"info","message":"New Measure - humidity : 36.45","timestamp":"2017-02-16T14:23:26.758Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:26.760Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:23:27.774Z"}
+{"level":"info","message":"New Measure - humidity : 36.94","timestamp":"2017-02-16T14:23:27.777Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:27.779Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:23:28.794Z"}
+{"level":"info","message":"New Measure - humidity : 37.79","timestamp":"2017-02-16T14:23:28.796Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:23:28.798Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:23:29.812Z"}
+{"level":"info","message":"New Measure - humidity : 37.17","timestamp":"2017-02-16T14:23:29.815Z"}
+{"level":"info","message":"New Measure - pressure : 1029.52","timestamp":"2017-02-16T14:23:29.817Z"}
+{"level":"info","message":"New Measure - temperature : 32.39","timestamp":"2017-02-16T14:23:30.830Z"}
+{"level":"info","message":"New Measure - humidity : 36.81","timestamp":"2017-02-16T14:23:30.832Z"}
+{"level":"info","message":"New Measure - pressure : 1029.53","timestamp":"2017-02-16T14:23:30.835Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:23:31.869Z"}
+{"level":"info","message":"New Measure - humidity : 36.77","timestamp":"2017-02-16T14:23:31.872Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:31.874Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:32.874Z"}
+{"level":"info","message":"New Measure - humidity : 36.69","timestamp":"2017-02-16T14:23:32.882Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:23:32.884Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:33.896Z"}
+{"level":"info","message":"New Measure - humidity : 37.2","timestamp":"2017-02-16T14:23:33.899Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:23:33.903Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:23:34.908Z"}
+{"level":"info","message":"New Measure - humidity : 35.41","timestamp":"2017-02-16T14:23:34.911Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:23:34.913Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:23:35.911Z"}
+{"level":"info","message":"New Measure - humidity : 36.69","timestamp":"2017-02-16T14:23:35.913Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:23:35.914Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:23:36.934Z"}
+{"level":"info","message":"New Measure - humidity : 37.09","timestamp":"2017-02-16T14:23:36.937Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:23:36.940Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:37.955Z"}
+{"level":"info","message":"New Measure - humidity : 36.87","timestamp":"2017-02-16T14:23:37.957Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:23:37.959Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:38.970Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:38.973Z"}
+{"level":"info","message":"New Measure - humidity : 37.01","timestamp":"2017-02-16T14:23:38.975Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:23:39.988Z"}
+{"level":"info","message":"New Measure - humidity : 37.9","timestamp":"2017-02-16T14:23:39.991Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:39.994Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:23:41.006Z"}
+{"level":"info","message":"New Measure - humidity : 37.36","timestamp":"2017-02-16T14:23:41.009Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:23:41.011Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:23:42.029Z"}
+{"level":"info","message":"New Measure - humidity : 37.46","timestamp":"2017-02-16T14:23:42.032Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:23:42.034Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:43.043Z"}
+{"level":"info","message":"New Measure - humidity : 37.12","timestamp":"2017-02-16T14:23:43.046Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:43.048Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:23:44.064Z"}
+{"level":"info","message":"New Measure - humidity : 36.8","timestamp":"2017-02-16T14:23:44.066Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:44.069Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:23:45.082Z"}
+{"level":"info","message":"New Measure - humidity : 38.49","timestamp":"2017-02-16T14:23:45.084Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:45.087Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:23:46.100Z"}
+{"level":"info","message":"New Measure - humidity : 36.94","timestamp":"2017-02-16T14:23:46.102Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:23:46.105Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:23:47.120Z"}
+{"level":"info","message":"New Measure - humidity : 37.13","timestamp":"2017-02-16T14:23:47.122Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:47.125Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:23:48.126Z"}
+{"level":"info","message":"New Measure - humidity : 36.79","timestamp":"2017-02-16T14:23:48.127Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:23:48.129Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:23:49.139Z"}
+{"level":"info","message":"New Measure - humidity : 36.98","timestamp":"2017-02-16T14:23:49.141Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:23:49.142Z"}
+{"level":"info","message":"New Measure - temperature : 32.47","timestamp":"2017-02-16T14:23:50.152Z"}
+{"level":"info","message":"New Measure - humidity : 37.24","timestamp":"2017-02-16T14:23:50.154Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:23:50.155Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:23:51.161Z"}
+{"level":"info","message":"New Measure - humidity : 36.8","timestamp":"2017-02-16T14:23:51.163Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:23:51.164Z"}
+{"level":"info","message":"New Measure - temperature : 32.33","timestamp":"2017-02-16T14:23:52.188Z"}
+{"level":"info","message":"New Measure - humidity : 36.61","timestamp":"2017-02-16T14:23:52.190Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:52.192Z"}
+{"level":"info","message":"New Measure - temperature : 32.25","timestamp":"2017-02-16T14:23:53.240Z"}
+{"level":"info","message":"New Measure - humidity : 36.91","timestamp":"2017-02-16T14:23:53.266Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:53.269Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:23:54.231Z"}
+{"level":"info","message":"New Measure - humidity : 36.91","timestamp":"2017-02-16T14:23:54.234Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:23:54.236Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:23:55.241Z"}
+{"level":"info","message":"New Measure - humidity : 36.84","timestamp":"2017-02-16T14:23:55.243Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:23:55.246Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:23:56.272Z"}
+{"level":"info","message":"New Measure - humidity : 36.36","timestamp":"2017-02-16T14:23:56.275Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:23:56.278Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:23:57.283Z"}
+{"level":"info","message":"New Measure - humidity : 36.91","timestamp":"2017-02-16T14:23:57.286Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:23:57.288Z"}
+{"level":"info","message":"New Measure - temperature : 32.23","timestamp":"2017-02-16T14:23:58.312Z"}
+{"level":"info","message":"New Measure - humidity : 34.36","timestamp":"2017-02-16T14:23:58.315Z"}
+{"level":"info","message":"New Measure - pressure : 1029.58","timestamp":"2017-02-16T14:23:58.317Z"}
+{"level":"info","message":"New Measure - temperature : 32.28","timestamp":"2017-02-16T14:23:59.316Z"}
+{"level":"info","message":"New Measure - humidity : 37.33","timestamp":"2017-02-16T14:23:59.318Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:23:59.319Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:24:00.330Z"}
+{"level":"info","message":"New Measure - humidity : 37.1","timestamp":"2017-02-16T14:24:00.332Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:24:00.333Z"}
+{"level":"info","message":"New Measure - temperature : 32.18","timestamp":"2017-02-16T14:24:01.343Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:24:01.344Z"}
+{"level":"info","message":"New Measure - humidity : 37.09","timestamp":"2017-02-16T14:24:01.346Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:24:02.368Z"}
+{"level":"info","message":"New Measure - humidity : 35.65","timestamp":"2017-02-16T14:24:02.373Z"}
+{"level":"info","message":"New Measure - pressure : 1029.57","timestamp":"2017-02-16T14:24:02.375Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:24:03.393Z"}
+{"level":"info","message":"New Measure - humidity : 36.97","timestamp":"2017-02-16T14:24:03.396Z"}
+{"level":"info","message":"New Measure - pressure : 1029.55","timestamp":"2017-02-16T14:24:03.398Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:24:04.428Z"}
+{"level":"info","message":"New Measure - humidity : 36.84","timestamp":"2017-02-16T14:24:04.430Z"}
+{"level":"info","message":"New Measure - pressure : 1029.59","timestamp":"2017-02-16T14:24:04.436Z"}
+{"level":"info","message":"New Measure - temperature : 32.26","timestamp":"2017-02-16T14:24:05.440Z"}
+{"level":"info","message":"New Measure - humidity : 37.19","timestamp":"2017-02-16T14:24:05.445Z"}
+{"level":"info","message":"New Measure - pressure : 1029.56","timestamp":"2017-02-16T14:24:05.447Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:24:06.466Z"}
+{"level":"info","message":"New Measure - humidity : 37.14","timestamp":"2017-02-16T14:24:06.469Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:24:06.471Z"}
+{"level":"info","message":"New Measure - temperature : 32.13","timestamp":"2017-02-16T14:24:07.491Z"}
+{"level":"info","message":"New Measure - humidity : 37.19","timestamp":"2017-02-16T14:24:07.493Z"}
+{"level":"info","message":"New Measure - pressure : 1029.54","timestamp":"2017-02-16T14:24:07.496Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:24:08.500Z"}
+{"level":"info","message":"New Measure - humidity : 33.51","timestamp":"2017-02-16T14:24:08.502Z"}
+{"level":"info","message":"New Measure - pressure : 1029.51","timestamp":"2017-02-16T14:24:08.503Z"}
+{"level":"info","message":"Listening on port 3080","timestamp":"2017-02-16T14:53:31.155Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-02-16T14:53:31.258Z"}
+{"level":"info","message":"New Measure - temperature : 32.44","timestamp":"2017-02-16T14:53:44.620Z"}
+{"level":"info","message":"New Measure - humidity : 37.6","timestamp":"2017-02-16T14:53:44.623Z"}
+{"level":"info","message":"New Measure - pressure : 1029.42","timestamp":"2017-02-16T14:53:44.625Z"}
+{"level":"info","message":"New Measure - temperature : 32.21","timestamp":"2017-02-16T14:53:45.424Z"}
+{"level":"info","message":"New Measure - pressure : 1029.42","timestamp":"2017-02-16T14:53:45.427Z"}
+{"level":"info","message":"New Measure - humidity : 38.29","timestamp":"2017-02-16T14:53:45.436Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:53:46.431Z"}
+{"level":"info","message":"New Measure - pressure : 1029.45","timestamp":"2017-02-16T14:53:46.442Z"}
+{"level":"info","message":"New Measure - humidity : 37.68","timestamp":"2017-02-16T14:53:46.448Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:53:47.470Z"}
+{"level":"info","message":"New Measure - humidity : 37.62","timestamp":"2017-02-16T14:53:47.480Z"}
+{"level":"info","message":"New Measure - pressure : 1029.45","timestamp":"2017-02-16T14:53:47.484Z"}
+{"level":"info","message":"New Measure - temperature : 32.44","timestamp":"2017-02-16T14:53:48.463Z"}
+{"level":"info","message":"New Measure - humidity : 38.09","timestamp":"2017-02-16T14:53:48.466Z"}
+{"level":"info","message":"New Measure - pressure : 1029.45","timestamp":"2017-02-16T14:53:48.478Z"}
+{"level":"info","message":"New Measure - temperature : 32.46","timestamp":"2017-02-16T14:53:49.462Z"}
+{"level":"info","message":"New Measure - humidity : 37.44","timestamp":"2017-02-16T14:53:49.465Z"}
+{"level":"info","message":"New Measure - pressure : 1029.42","timestamp":"2017-02-16T14:53:49.468Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:53:50.477Z"}
+{"level":"info","message":"New Measure - humidity : 38.8","timestamp":"2017-02-16T14:53:50.480Z"}
+{"level":"info","message":"New Measure - pressure : 1029.44","timestamp":"2017-02-16T14:53:50.486Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:53:51.516Z"}
+{"level":"info","message":"New Measure - humidity : 37.91","timestamp":"2017-02-16T14:53:51.519Z"}
+{"level":"info","message":"New Measure - pressure : 1029.45","timestamp":"2017-02-16T14:53:51.521Z"}
+{"level":"info","message":"New Measure - temperature : 32.32","timestamp":"2017-02-16T14:53:52.576Z"}
+{"level":"info","message":"New Measure - humidity : 37.98","timestamp":"2017-02-16T14:53:52.580Z"}
+{"level":"info","message":"New Measure - pressure : 1029.44","timestamp":"2017-02-16T14:53:52.584Z"}
+{"level":"info","message":"New Measure - temperature : 32.37","timestamp":"2017-02-16T14:53:53.528Z"}
+{"level":"info","message":"New Measure - humidity : 37.93","timestamp":"2017-02-16T14:53:53.530Z"}
+{"level":"info","message":"New Measure - pressure : 1029.47","timestamp":"2017-02-16T14:53:53.532Z"}
+{"level":"info","message":"New Measure - temperature : 32.35","timestamp":"2017-02-16T14:53:54.541Z"}
+{"level":"info","message":"New Measure - humidity : 36.97","timestamp":"2017-02-16T14:53:54.543Z"}
+{"level":"info","message":"New Measure - pressure : 1029.45","timestamp":"2017-02-16T14:53:54.546Z"}
+{"level":"info","message":"New Measure - temperature : 32.3","timestamp":"2017-02-16T14:53:55.567Z"}
+{"level":"info","message":"New Measure - humidity : 38.03","timestamp":"2017-02-16T14:53:55.580Z"}
+{"level":"info","message":"New Measure - pressure : 1029.43","timestamp":"2017-02-16T14:53:55.584Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:02:12.317Z"}
+{"level":"error","message":"Connection error: failed to connect to server [localhost:27017] on first connect","timestamp":"2017-03-17T09:02:12.464Z"}
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-03-17T09:05:55.890Z"}
+{"level":"info","message":"Mongoose default connection open to mongodb://localhost/sensehat","timestamp":"2017-03-17T09:05:55.947Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:05:55.987Z"}
+{"level":"info","message":"All measures removed","timestamp":"2017-03-17T09:05:56.001Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:06:04.921Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:06:05.127Z"}
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-03-17T09:07:25.068Z"}
+{"level":"info","message":"Mongoose default connection open to mongodb://localhost/sensehat","timestamp":"2017-03-17T09:07:25.123Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:07:25.162Z"}
+{"level":"info","message":"All measures removed","timestamp":"2017-03-17T09:07:25.174Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:07:30.544Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:07:30.804Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:10:59.367Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:10:59.580Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:14:28.042Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:14:28.152Z"}
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-03-17T09:16:15.880Z"}
+{"level":"info","message":"Mongoose default connection open to mongodb://localhost/sensehat","timestamp":"2017-03-17T09:16:15.933Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:16:15.973Z"}
+{"level":"info","message":"All measures removed","timestamp":"2017-03-17T09:16:15.986Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:16:31.351Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:16:31.525Z"}
+{"level":"info","message":"New config client created and saved - ./public/config.json","timestamp":"2017-03-17T09:19:32.527Z"}
+{"level":"info","message":"Mongoose default connection open to mongodb://localhost/sensehat","timestamp":"2017-03-17T09:19:32.580Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:19:32.618Z"}
+{"level":"info","message":"All measures removed","timestamp":"2017-03-17T09:19:32.630Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:19:48.359Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:19:48.476Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:19:57.412Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:19:57.519Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:33:49.422Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:33:49.631Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:34:55.324Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:34:55.498Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:49:08.233Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:49:08.466Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:53:24.846Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:53:25.054Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:53:52.372Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:53:52.546Z"}
+{"level":"info","message":"Listening on port 3137","timestamp":"2017-03-17T09:54:43.482Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2017-03-17T09:54:43.675Z"}

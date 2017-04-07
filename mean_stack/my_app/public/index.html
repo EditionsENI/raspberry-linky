@@ -1,0 +1,77 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Dashboard</title>
+    <meta name="description" content="">
+    <!-- CSS -->
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- JS -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/node_modules/angular/angular.js"></script>
+</head>
+
+<body ng-app="app">
+    <div class="row center-block" ng-controller="DatasCtrl" ng-model="datas">
+        <div class="col-md-6 text-center">
+            <div class="panel panel-primary">
+                <!-- Default panel contents -->
+                <div class="panel-heading">Panel heading</div>
+                <!-- Table -->
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Label</th>
+                            <th>Valeur</th>
+                            <th>Unité</th>
+                        </tr>
+                    </thead>
+                    <tbody ng-repeat='data in datas'>
+                        <tr>
+                            <th scope="row">{{$index+1}}</th>
+                            <td>{{data.label}}</td>
+                            <td>{{data.value}}</td>
+                            <td>{{data.unit}}</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
+
+    </div>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script>
+        var app = angular.module('app', []);
+        app.controller('DatasCtrl', function($scope, $http) {
+            $http({
+                method: 'GET',
+                url: '/public/config.json'
+            }).then(function(success) {
+                var response = success.data;
+                console.log(response);
+                var socket = io.connect(response.full_path + '/datas');
+                socket.on('data.array', function(data) {
+                    console.log(data);
+                    $scope.$apply(function() {
+                      $scope.datas = data;
+                    });
+                });
+            }, function(error) {
+
+            });
+
+
+        });
+    </script>
+</body>
+
+</html>
